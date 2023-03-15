@@ -1,3 +1,5 @@
+# This code is from my previous internship supervisor: Jeffrey Luppes
+
 from html.parser import HTMLParser
 from io import StringIO
 import unicodedata
