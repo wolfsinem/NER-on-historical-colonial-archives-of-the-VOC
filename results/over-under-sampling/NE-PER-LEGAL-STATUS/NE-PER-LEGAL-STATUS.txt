@@ -1,0 +1,104 @@
+Epoch:   0%|          | 0/7 [00:00<?, ?it/s]
+Average train loss: 0.597938933968544
+Validation loss: 0.3477183222770691
+Validation Accuracy: 0.8859915611814346
+Epoch:  14%|█▍        | 1/7 [08:35<51:31, 515.22s/it]
+              precision    recall  f1-score   support
+
+    Enslaved     0.0000    0.0000    0.0000       190
+       Freed     0.0000    0.0000    0.0000        35
+ Unspecified     0.6601    0.7968    0.7220      1806
+
+   micro avg     0.6601    0.7085    0.6834      2031
+   macro avg     0.2200    0.2656    0.2407      2031
+weighted avg     0.5870    0.7085    0.6420      2031
+
+
+Average train loss: 0.26590042213598886
+Validation loss: 0.23445025384426116
+Validation Accuracy: 0.920253164556962
+Epoch:  29%|██▊       | 2/7 [17:10<42:56, 515.36s/it]
+              precision    recall  f1-score   support
+
+    Enslaved     0.8493    0.3263    0.4715       190
+       Freed     0.0000    0.0000    0.0000        35
+ Unspecified     0.7356    0.8289    0.7795      1806
+
+   micro avg     0.7396    0.7676    0.7533      2031
+   macro avg     0.5283    0.3851    0.4170      2031
+weighted avg     0.7336    0.7676    0.7372      2031
+
+
+Average train loss: 0.16899040424161488
+Validation loss: 0.21542205512523652
+Validation Accuracy: 0.930126582278481
+Epoch:  43%|████▎     | 3/7 [25:44<34:18, 514.66s/it]
+              precision    recall  f1-score   support
+
+    Enslaved     0.8727    0.5053    0.6400       190
+       Freed     0.0000    0.0000    0.0000        35
+ Unspecified     0.7737    0.8350    0.8032      1806
+
+   micro avg     0.7790    0.7898    0.7844      2031
+   macro avg     0.5488    0.4468    0.4811      2031
+weighted avg     0.7697    0.7898    0.7741      2031
+
+
+Average train loss: 0.12494069089492162
+Validation loss: 0.19299814105033875
+Validation Accuracy: 0.9362869198312236
+Epoch:  57%|█████▋    | 4/7 [34:21<25:46, 515.49s/it]
+              precision    recall  f1-score   support
+
+    Enslaved     0.7633    0.6789    0.7187       190
+       Freed     0.1429    0.0286    0.0476        35
+ Unspecified     0.7879    0.8411    0.8136      1806
+
+   micro avg     0.7837    0.8119    0.7976      2031
+   macro avg     0.5647    0.5162    0.5266      2031
+weighted avg     0.7745    0.8119    0.7915      2031
+
+
+Average train loss: 0.09511147108342913
+Validation loss: 0.20572419762611388
+Validation Accuracy: 0.9351054852320675
+Epoch:  71%|███████▏  | 5/7 [42:56<17:11, 515.52s/it]
+              precision    recall  f1-score   support
+
+    Enslaved     0.7636    0.6632    0.7099       190
+       Freed     0.0833    0.0286    0.0426        35
+ Unspecified     0.7862    0.8306    0.8078      1806
+
+   micro avg     0.7803    0.8011    0.7906      2031
+   macro avg     0.5444    0.5074    0.5201      2031
+weighted avg     0.7719    0.8011    0.7854      2031
+
+
+Average train loss: 0.07690838856829538
+Validation loss: 0.20700619816780091
+Validation Accuracy: 0.9380590717299578
+Epoch:  86%|████████▌ | 6/7 [51:30<08:35, 515.02s/it]
+              precision    recall  f1-score   support
+
+    Enslaved     0.8077    0.6632    0.7283       190
+       Freed     0.3571    0.1429    0.2041        35
+ Unspecified     0.7901    0.8527    0.8202      1806
+
+   micro avg     0.7886    0.8227    0.8053      2031
+   macro avg     0.6517    0.5529    0.5842      2031
+weighted avg     0.7843    0.8227    0.8010      2031
+
+
+Average train loss: 0.06650938664873442
+Validation loss: 0.20967791378498077
+Validation Accuracy: 0.93957805907173
+Epoch: 100%|██████████| 7/7 [1:00:07<00:00, 515.30s/it]
+              precision    recall  f1-score   support
+
+    Enslaved     0.8425    0.6474    0.7321       190
+       Freed     0.4375    0.2000    0.2745        35
+ Unspecified     0.7975    0.8394    0.8179      1806
+
+   micro avg     0.7979    0.8104    0.8041      2031
+   macro avg     0.6925    0.5623    0.6082      2031
+weighted avg     0.7955    0.8104    0.8005      2031

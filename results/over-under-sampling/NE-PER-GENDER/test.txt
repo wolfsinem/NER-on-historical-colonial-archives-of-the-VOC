@@ -1,0 +1,111 @@
+Epoch:   0%|          | 0/7 [00:00<?, ?it/s]
+Average train loss: 0.9649251712693109
+Validation loss: 0.5474164187908173
+Validation Accuracy: 0.7968776371308017
+Epoch:  14%|█▍        | 1/7 [08:34<51:26, 514.39s/it]
+              precision    recall  f1-score   support
+
+       Group     0.0000    0.0000    0.0000        75
+         Man     0.3994    0.4688    0.4313       800
+ Unspecified     0.5142    0.5862    0.5478      1143
+       Woman     0.3000    0.0964    0.1459       280
+
+   micro avg     0.4597    0.4665    0.4631      2298
+   macro avg     0.3034    0.2878    0.2813      2298
+weighted avg     0.4313    0.4665    0.4404      2298
+
+
+Average train loss: 0.5049893869294061
+Validation loss: 0.4629991888999939
+Validation Accuracy: 0.8137552742616033
+Epoch:  29%|██▊       | 2/7 [17:10<42:55, 515.11s/it]
+              precision    recall  f1-score   support
+
+       Group     1.0000    0.0933    0.1707        75
+         Man     0.4434    0.4800    0.4610       800
+ Unspecified     0.5185    0.5766    0.5460      1143
+       Woman     0.4000    0.3571    0.3774       280
+
+   micro avg     0.4804    0.5004    0.4902      2298
+   macro avg     0.5905    0.3768    0.3888      2298
+weighted avg     0.4936    0.5004    0.4836      2298
+
+
+Average train loss: 0.38638157116042243
+Validation loss: 0.4382126212120056
+Validation Accuracy: 0.8324050632911393
+Epoch:  43%|████▎     | 3/7 [25:38<34:09, 512.25s/it]
+              precision    recall  f1-score   support
+
+       Group     1.0000    0.5467    0.7069        75
+         Man     0.4856    0.5288    0.5063       800
+ Unspecified     0.5536    0.6780    0.6095      1143
+       Woman     0.4703    0.3393    0.3942       280
+
+   micro avg     0.5306    0.5805    0.5544      2298
+   macro avg     0.6274    0.5232    0.5542      2298
+weighted avg     0.5343    0.5805    0.5505      2298
+
+
+Average train loss: 0.31225653621885513
+Validation loss: 0.4182455241680145
+Validation Accuracy: 0.8433755274261603
+Epoch:  57%|█████▋    | 4/7 [34:11<25:37, 512.37s/it]
+              precision    recall  f1-score   support
+
+       Group     0.9818    0.7200    0.8308        75
+         Man     0.5134    0.5737    0.5419       800
+ Unspecified     0.6148    0.5739    0.5937      1143
+       Woman     0.5149    0.4321    0.4699       280
+
+   micro avg     0.5731    0.5614    0.5672      2298
+   macro avg     0.6562    0.5750    0.6091      2298
+weighted avg     0.5793    0.5614    0.5683      2298
+
+
+Average train loss: 0.26207574142350093
+Validation loss: 0.41504385471343996
+Validation Accuracy: 0.8485232067510549
+Epoch:  71%|███████▏  | 5/7 [42:45<17:05, 512.83s/it]
+              precision    recall  f1-score   support
+
+       Group     1.0000    0.7333    0.8462        75
+         Man     0.5222    0.6175    0.5659       800
+ Unspecified     0.6168    0.6308    0.6237      1143
+       Woman     0.5163    0.4536    0.4829       280
+
+   micro avg     0.5782    0.6079    0.5927      2298
+   macro avg     0.6638    0.6088    0.6297      2298
+weighted avg     0.5841    0.6079    0.5937      2298
+
+
+Average train loss: 0.22745749884181551
+Validation loss: 0.4315147340297699
+Validation Accuracy: 0.8486075949367089
+Epoch:  86%|████████▌ | 6/7 [51:15<08:31, 511.85s/it]
+              precision    recall  f1-score   support
+
+       Group     0.9492    0.7467    0.8358        75
+         Man     0.5355    0.5850    0.5591       800
+ Unspecified     0.6188    0.6378    0.6282      1143
+       Woman     0.5146    0.4393    0.4740       280
+
+   micro avg     0.5855    0.5988    0.5921      2298
+   macro avg     0.6545    0.6022    0.6243      2298
+weighted avg     0.5879    0.5988    0.5921      2298
+
+
+Average train loss: 0.20842922528584798
+Validation loss: 0.4301805019378662
+Validation Accuracy: 0.8507172995780591
+Epoch: 100%|██████████| 7/7 [59:48<00:00, 512.62s/it]
+              precision    recall  f1-score   support
+
+       Group     0.9483    0.7333    0.8271        75
+         Man     0.5290    0.5925    0.5590       800
+ Unspecified     0.6271    0.6430    0.6350      1143
+       Woman     0.5336    0.4536    0.4903       280
+
+   micro avg     0.5884    0.6053    0.5967      2298
+   macro avg     0.6595    0.6056    0.6278      2298
+weighted avg     0.5921    0.6053    0.5972      2298

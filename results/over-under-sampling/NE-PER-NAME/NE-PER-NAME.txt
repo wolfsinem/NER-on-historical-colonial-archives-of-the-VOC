@@ -1,0 +1,93 @@
+Epoch:   0%|          | 0/7 [00:00<?, ?it/s]
+Average train loss: 0.4647806723912557
+Validation loss: 0.20667588114738464
+Validation Accuracy: 0.9245954418368212
+Epoch:  14%|█▍        | 1/7 [08:33<51:22, 513.78s/it]
+              precision    recall  f1-score   support
+
+  ProperName     0.7935    0.8350    0.8137      2443
+
+   micro avg     0.7935    0.8350    0.8137      2443
+   macro avg     0.7935    0.8350    0.8137      2443
+weighted avg     0.7935    0.8350    0.8137      2443
+
+
+Average train loss: 0.16500151852766673
+Validation loss: 0.1667603522539139
+Validation Accuracy: 0.9384902143522833
+Epoch:  29%|██▊       | 2/7 [17:08<42:50, 514.14s/it]
+              precision    recall  f1-score   support
+
+  ProperName     0.8164    0.8698    0.8423      2443
+
+   micro avg     0.8164    0.8698    0.8423      2443
+   macro avg     0.8164    0.8698    0.8423      2443
+weighted avg     0.8164    0.8698    0.8423      2443
+
+
+Average train loss: 0.10651974959505929
+Validation loss: 0.174046790599823
+Validation Accuracy: 0.9442514614928408
+Epoch:  43%|████▎     | 3/7 [25:41<34:15, 513.81s/it]
+              precision    recall  f1-score   support
+
+          AD     0.0000    0.0000    0.0000         0
+  ProperName     0.8318    0.8784    0.8545      2443
+
+   micro avg     0.8315    0.8784    0.8543      2443
+   macro avg     0.4159    0.4392    0.4272      2443
+weighted avg     0.8318    0.8784    0.8545      2443
+
+
+Average train loss: 0.07486963197588921
+Validation loss: 0.16116251349449157
+Validation Accuracy: 0.9460306701686012
+Epoch:  57%|█████▋    | 4/7 [34:13<25:39, 513.01s/it]
+              precision    recall  f1-score   support
+
+          AD     0.0000    0.0000    0.0000         0
+  ProperName     0.8521    0.8563    0.8542      2443
+
+   micro avg     0.8511    0.8563    0.8537      2443
+   macro avg     0.4261    0.4282    0.4271      2443
+weighted avg     0.8521    0.8563    0.8542      2443
+
+
+Average train loss: 0.059372905641794205
+Validation loss: 0.17704743444919585
+Validation Accuracy: 0.9453528763873591
+Epoch:  71%|███████▏  | 5/7 [42:47<17:06, 513.36s/it]
+              precision    recall  f1-score   support
+
+  ProperName     0.8318    0.8784    0.8545      2443
+
+   micro avg     0.8318    0.8784    0.8545      2443
+   macro avg     0.8318    0.8784    0.8545      2443
+weighted avg     0.8318    0.8784    0.8545      2443
+
+
+Average train loss: 0.044818761944770816
+Validation loss: 0.1834123969078064
+Validation Accuracy: 0.9472168092857748
+Epoch:  86%|████████▌ | 6/7 [51:19<08:32, 512.78s/it]
+              precision    recall  f1-score   support
+
+          AD     0.0000    0.0000    0.0000         0
+  ProperName     0.8393    0.8702    0.8545      2443
+
+   micro avg     0.8390    0.8702    0.8543      2443
+   macro avg     0.4197    0.4351    0.4273      2443
+weighted avg     0.8393    0.8702    0.8545      2443
+
+
+Average train loss: 0.03883675527241495
+Validation loss: 0.18570675253868102
+Validation Accuracy: 0.9467931881724985
+Epoch: 100%|██████████| 7/7 [59:51<00:00, 513.07s/it]
+              precision    recall  f1-score   support
+
+  ProperName     0.8411    0.8645    0.8526      2443
+
+   micro avg     0.8411    0.8645    0.8526      2443
+   macro avg     0.8411    0.8645    0.8526      2443
+weighted avg     0.8411    0.8645    0.8526      2443
