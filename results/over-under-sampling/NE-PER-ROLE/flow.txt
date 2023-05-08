@@ -1,0 +1,132 @@
+Epoch:   0%|          | 0/7 [00:00<?, ?it/s]
+Average train loss: 1.3261014223098755
+Validation loss: 0.8931852221488953
+Validation Accuracy: 0.7029535864978903
+Epoch:  14%|█▍        | 1/7 [08:39<51:55, 519.26s/it]
+                      precision    recall  f1-score   support
+
+       Acting_Notary     0.0000    0.0000    0.0000       190
+         Beneficiary     0.1146    0.0306    0.0484       359
+              Notary     0.0000    0.0000    0.0000       113
+               Other     0.3344    0.6266    0.4361      1216
+            Testator     0.0000    0.0000    0.0000       261
+Testator_Beneficiary     0.0000    0.0000    0.0000        33
+             Witness     0.0000    0.0000    0.0000       173
+
+           micro avg     0.2973    0.3296    0.3126      2345
+           macro avg     0.0641    0.0939    0.0692      2345
+        weighted avg     0.1909    0.3296    0.2335      2345
+
+
+Average train loss: 0.8225433150927226
+Validation loss: 0.7293449997901916
+Validation Accuracy: 0.7652320675105485
+Epoch:  29%|██▊       | 2/7 [17:15<43:07, 517.47s/it]
+                      precision    recall  f1-score   support
+
+       Acting_Notary     0.2375    0.2000    0.2171       190
+         Beneficiary     0.4041    0.4401    0.4213       359
+              Notary     0.1159    0.0708    0.0879       113
+               Other     0.5011    0.7270    0.5933      1216
+            Testator     0.1207    0.0268    0.0439       261
+Testator_Beneficiary     0.0000    0.0000    0.0000        33
+             Witness     0.1741    0.2023    0.1872       173
+
+           micro avg     0.4275    0.4819    0.4531      2345
+           macro avg     0.2219    0.2381    0.2215      2345
+        weighted avg     0.3728    0.4819    0.4127      2345
+
+
+Average train loss: 0.6734325157271491
+Validation loss: 0.6691406011581421
+Validation Accuracy: 0.7735021097046414
+Epoch:  43%|████▎     | 3/7 [25:52<34:29, 517.38s/it]
+                      precision    recall  f1-score   support
+
+       Acting_Notary     0.2241    0.1368    0.1699       190
+         Beneficiary     0.4068    0.4986    0.4481       359
+              Notary     0.2745    0.1239    0.1707       113
+               Other     0.5620    0.7007    0.6237      1216
+            Testator     0.1141    0.0651    0.0829       261
+Testator_Beneficiary     0.0000    0.0000    0.0000        33
+             Witness     0.1406    0.1561    0.1479       173
+
+           micro avg     0.4525    0.4755    0.4637      2345
+           macro avg     0.2460    0.2402    0.2348      2345
+        weighted avg     0.4082    0.4755    0.4342      2345
+
+
+Average train loss: 0.569540450308058
+Validation loss: 0.6646488785743714
+Validation Accuracy: 0.7761181434599156
+Epoch:  57%|█████▋    | 4/7 [34:32<25:54, 518.25s/it]
+                      precision    recall  f1-score   support
+
+       Acting_Notary     0.3105    0.3579    0.3325       190
+         Beneficiary     0.4392    0.4123    0.4253       359
+              Notary     0.4364    0.2124    0.2857       113
+               Other     0.5569    0.6160    0.5849      1216
+            Testator     0.0820    0.0383    0.0522       261
+Testator_Beneficiary     0.0000    0.0000    0.0000        33
+             Witness     0.2297    0.2948    0.2582       173
+
+           micro avg     0.4565    0.4478    0.4521      2345
+           macro avg     0.2935    0.2759    0.2770      2345
+        weighted avg     0.4283    0.4478    0.4340      2345
+
+
+Average train loss: 0.4957068317466312
+Validation loss: 0.6408488512039184
+Validation Accuracy: 0.7877637130801688
+Epoch:  71%|███████▏  | 5/7 [43:09<17:15, 517.88s/it]
+                      precision    recall  f1-score   support
+
+       Acting_Notary     0.3108    0.4105    0.3537       190
+         Beneficiary     0.4244    0.4457    0.4348       359
+              Notary     0.3478    0.1416    0.2013       113
+               Other     0.5588    0.7270    0.6319      1216
+            Testator     0.1429    0.0805    0.1029       261
+Testator_Beneficiary     0.0000    0.0000    0.0000        33
+             Witness     0.2914    0.2543    0.2716       173
+
+           micro avg     0.4707    0.5130    0.4909      2345
+           macro avg     0.2966    0.2942    0.2852      2345
+        weighted avg     0.4341    0.5130    0.4641      2345
+
+
+Average train loss: 0.4488616168498993
+Validation loss: 0.6425233006477356
+Validation Accuracy: 0.7840506329113924
+Epoch:  86%|████████▌ | 6/7 [51:47<08:37, 517.98s/it]
+                      precision    recall  f1-score   support
+
+       Acting_Notary     0.3106    0.3842    0.3435       190
+         Beneficiary     0.4198    0.4596    0.4388       359
+              Notary     0.5000    0.2212    0.3067       113
+               Other     0.5604    0.6488    0.6014      1216
+            Testator     0.1278    0.0651    0.0863       261
+Testator_Beneficiary     0.0000    0.0000    0.0000        33
+             Witness     0.2708    0.3757    0.3148       173
+
+           micro avg     0.4608    0.4836    0.4719      2345
+           macro avg     0.3128    0.3078    0.2988      2345
+        weighted avg     0.4383    0.4836    0.4545      2345
+
+
+Average train loss: 0.4174353539943695
+Validation loss: 0.6423922061920166
+Validation Accuracy: 0.7813502109704641
+Epoch: 100%|██████████| 7/7 [1:00:26<00:00, 518.12s/it]
+                      precision    recall  f1-score   support
+
+       Acting_Notary     0.3004    0.3842    0.3372       190
+         Beneficiary     0.4423    0.4373    0.4398       359
+              Notary     0.4694    0.2035    0.2840       113
+               Other     0.5562    0.6513    0.6000      1216
+            Testator     0.1111    0.0766    0.0907       261
+Testator_Beneficiary     0.0000    0.0000    0.0000        33
+             Witness     0.2654    0.3237    0.2917       173
+
+           micro avg     0.4544    0.4780    0.4659      2345
+           macro avg     0.3064    0.2967    0.2919      2345
+        weighted avg     0.4350    0.4780    0.4511      2345
